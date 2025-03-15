@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PluhinVE_01_01</string>
+    <string name="convert">Конвертер единиц информации</string>
+    <string name="letsgo">Начать</string>
+    <string name="inputTheNumber">Введите число</string>
+    <string name="from">Из</string>
+    <string name="in">В</string>
+    <string name="rasschet">Вычислить</string>
+    <string name="result">Результат</string>
+    <string-array name="spinner_items">
+        <item>Байт</item>
+        <item>Килобайт</item>
+        <item>Мегабайт</item>
+        <item>Гигабайт</item>
+    </string-array>
+</resources>
